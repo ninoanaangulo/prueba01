@@ -1,6 +1,6 @@
 # Análisis de fuga de clientes en Movistar
 
-[![Movistar Logo](carrito01.jpg)](https://www.movistar.com.co/)
+[![Movistar Logo](movistar_elige_todo_logo1.jpg)](https://www.movistar.com.co/)
 
 ## Descripción
 En este proyecto se utilizara **machine learning** para identificar clientes con una alta probabilidad de cancelar su servicio. El objetivo de este trabajo es avisarle al equipo de marketing con anticipacion para que se pueda prevenir el retiro de los clientes.
