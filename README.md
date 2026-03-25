@@ -13,3 +13,9 @@ Se analizara una base de datos que contenga la totalidad de clientes de la compa
 | Monto de la factura    | COP   |
 | Quejas al soporte tecnico   | Cantidad discreta   |
 | Uso de datos | GB   |
+
+## Herramientas tecnologicas utlizadas
+Para este proyecto se utilizara python. En consecuencia, se hara uso diferentes librerias de python para la manipulation de los datos, como lo son:
+- Pandas (limpieza)
+- Scikit-learn (modelado)
+- Matplotlib y seaborn (visualization de datos).
