@@ -9,5 +9,7 @@ En este proyecto se utilizara **machine learning** para identificar clientes con
 Se analizara una base de datos que contenga la totalidad de clientes de la compañia (aprox. 20000) En esta base de datos se analizaran las siguientes variables:
 | Variable a analizar | Medida |
 |---------------------|--------|
-| Antiguedad del contrato    | Dato 2    |
-| Dato 4    | Dato 5    |
+| Antiguedad del contrato    | meses  |
+| Monto de la factura    | COP   |
+| Quejas al soporte tecnico   | Cantidad discreta   |
+| Uso de datos | GB   |
